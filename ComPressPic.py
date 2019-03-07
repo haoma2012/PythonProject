@@ -6,7 +6,6 @@ import os
 import time
 
 # tinify.key ="Your Developer API Key" # AppKey
-# tinify.key = "GyY2khDzsqwj3HYnsbPsQZpjS5g1YwkS"
 # 设置代理
 # tinify.proxy = ""
 
